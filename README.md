@@ -4,7 +4,7 @@
 
 Ce projet est une application PHP développée selon l'architecture **MVC**, permettant aux établissements scolaires de :
 - Gérer les élèves
-- Enregistrer les notes et sortie en pdf
+- Enregistrer les notes avec ses coefficients et sortie en pdf
 - Consulter les moyennes
 - Générer les résultats finaux pour le CEPE
 
